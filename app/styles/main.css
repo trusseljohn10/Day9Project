@@ -1,0 +1,18 @@
+.panel {
+		display: inline-block;
+		width: 33%;
+		color: red;
+}
+	
+body {
+		background-image: url(http://www.london24.com/polopoly_fs/1.4280043.1445442446!/image/image.jpg_gen/derivatives/landscape_490/image.jpg)
+}
+
+#newList,#newList a {
+		color: red;
+}
+
+.list-group a {
+		color: red;
+}
+
